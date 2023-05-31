@@ -1,0 +1,4 @@
+requests==2.31.0
+beautifulsoup4==4.11.0
+python-barcode==0.13.1
+Pillow==8.4.0
